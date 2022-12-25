@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-25T09:45:13.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="r6X2ynIFI1RJ0Tg66LBV" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-25T09:47:21.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="MLcLR9KTLtfWcPxqS1Sg" type="github">
   <diagram id="tG8iGMxadO1Et6cglrim" name="Page-1">
     <mxGraphModel dx="880" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,9 +22,6 @@
         <mxCell id="zTSLAmRdlTajMLCa33K6-15" value="default jre &amp;amp;&lt;br&gt;jenkins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zTSLAmRdlTajMLCa33K6-2">
           <mxGeometry x="330" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zTSLAmRdlTajMLCa33K6-10" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="zTSLAmRdlTajMLCa33K6-2">
-          <mxGeometry x="-20" y="20" width="250" height="169.5" as="geometry" />
-        </mxCell>
         <mxCell id="zTSLAmRdlTajMLCa33K6-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="zTSLAmRdlTajMLCa33K6-2">
           <mxGeometry x="260" y="50" width="70" height="70" as="geometry" />
         </mxCell>
@@ -39,6 +36,9 @@
         </mxCell>
         <mxCell id="zTSLAmRdlTajMLCa33K6-14" value="java-1.8.0-openjdk&lt;br&gt;------------&lt;br&gt;Appache tomcat 9" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zTSLAmRdlTajMLCa33K6-1">
           <mxGeometry x="139.5" y="65" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zTSLAmRdlTajMLCa33K6-10" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="zTSLAmRdlTajMLCa33K6-1">
+          <mxGeometry x="20" y="40" width="520" height="190" as="geometry" />
         </mxCell>
         <mxCell id="zTSLAmRdlTajMLCa33K6-5" value="10.10.0.0/24" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="20" width="195" height="30" as="geometry" />
